@@ -22,5 +22,6 @@ I'm a passionate developer specializing in **Roblox MGUI** development and scrip
 ## 📫 How to Reach Me
 
 - **GitHub**: [Click Me](https://github.com/ssindro)
+- **Discord**: @feudio
 
 Let's connect and build something incredible! 🚀
